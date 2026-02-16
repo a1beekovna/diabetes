@@ -90,4 +90,4 @@ pip install numpy pandas scikit-learn
 
 ##  Автор
 
-**Қабиболла Жұлдыз**
+**Қабиболла Жұлдыз Айбекқызы**
